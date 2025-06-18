@@ -1,0 +1,44 @@
+{
+    "hostId": "hunan",
+    "hostType": 1,
+    "extraInfo": {
+        "restaurantInfo": {
+            "name": "Hunan Bar",
+            "alternativeName": "湖南酒家",
+            "description": "Hunan Bar is the most famous Chinese restaurant in Davis",
+            "address": {
+                "fullAddress": "207 D Street, Davis, CA, USA",
+                "coordinates": [ -121.742499, 38.543274 ],
+                "postalCode": "95616",
+                "timeZone": "America/Los_Angeles"
+            },
+            "features": [
+                1,
+                2,
+                3
+            ],
+            "contact": {
+                "adminName": "",
+                "internationalCode": "1",
+                "phoneNumber": "5307535174",
+                "email": "hunanbar@muncho.io",
+                "website": "hunanbar.muncho.io"
+            },
+            "accessibility": "Entrance and Parking\n 1. Accessible Parking Spaces: Clearly marked, with the correct width for vans/wheelchairs.\n 2. Ramps/Curb Cuts: Easy for wheelchair users and people with mobility devices to enter\n                3. Doorways: Wide enough to accommodate wheelchairs.\n            Pathways and Seating\n                1. Interior Pathways: Hallways and aisles allow easy maneuverability.\n                2. Tables and Seating: Some tables are accessible to individuals using wheelchairs.\n            Restrooms\n  1. Accessible Stall(s): Grab bars, proper turning radius, and accessible fixtures are available.\n 2. Signage: We do not have visual‑assistant signage.",
+            "policies": [
+                "we do not allow any type of pet in the store"
+            ],
+        "greetingMessage": "Hi, this is Hunan Bar 湖南酒家. How can I help you?",
+        "offlineGreetingMessage": "Hi, this is Hunan Bar restaurant (湖南酒家). We are currently closed and not accepting food orders at this time.",
+        "openHours": [
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 20, "endMinute": 30 } ] }
+        ],
+        "overrideHours": {}
+    }}
+}

@@ -1,0 +1,51 @@
+{
+    "hostId": "hawaii",
+    "hostType": 1,
+    "extraInfo": {
+        "restaurantInfo": {
+            "name": "Tim's Hawaiian BBQ",
+            "description": "Tim's Hawaiian BBQ serves best fast food and barbecue in Davis.",
+            "address": {
+                "fullAddress": "516 2nd St, Davis, CA 95616, USA",
+                "coordinates": [ -121.741289, 38.543022 ],
+                "postalCode": "95618",
+                "timeZone": "America/Los_Angeles"
+            },
+            "features": [
+                2,
+                3
+            ],
+            "contact": {
+                "adminName": "",
+                "internationalCode": "1",
+                "phoneNumber": "5307538883",
+                "email": "",
+                "website": "timbbqdtdavis.muncho.io"
+            },
+            "accessibility": "Entrance and Parking\n 1. Accessible Parking Spaces: Clearly marked, with the correct width for vans/wheelchairs.\n 2. Ramps/Curb Cuts: Easy for wheelchair users and people with mobility devices to enter\n                3. Doorways: Wide enough to accommodate wheelchairs.\n            Pathways and Seating\n                1. Interior Pathways: Hallways and aisles allow easy maneuverability.\n                2. Tables and Seating: Some tables are accessible to individuals using wheelchairs.\n            Restrooms\n  1. Accessible Stall(s): Grab bars, proper turning radius, and accessible fixtures are available.\n 2. Signage: We do not have visual‑assistant signage.",
+            "policies": [
+                "Only service animals are allowed.",
+                "We don't provide delivery service, but you can place a pickup order here. If you want delivery, you can use DoorDash or Uber Eats instead.",
+                "Reject all marketing calls—defined as any attempt to promote or sell a product or service—by immediately hanging up. If the user wants to transfer the call, ask them why first.",
+                "Transfer the call to a human if the order total exceeds $150.",
+                "If the user wants to order a party tray, you must transfer the call, as this item requires a long preparation time.",
+                "If a customer wants two kinds of meat on one plate, ask whether they'd like the Half & Half BBQ Combo.",
+                "plate are our most popular items. If a customer doesn't specify plate or bowl, we'll default to the plate.",
+                "Monday, we have Fish and chips\nTuesday, we have BBQ Chicken plate W/ soft drink\nWednesday, we have Chicken Katsu plate W/ soft drink\nAll specials are $12.99 plus tax, and each person can order up to 3 specials\nWhen the user asks for the daily special, you must focus exclusively on that item. Do not suggest or add similar items unless the user clearly and explicitly requests them.",
+                "When a user orders a plate without specifying any side choices, default to 2 macs and 1 rice.\nAvoid asking too many follow-up questions about sides — if the user mentions a side, select the closest matching option.\nIf the user says \"rice and mac,\" default to 2 rice and 1 mac.",
+                "If the user places an order, make sure to tell them: \"Just a heads-up — we only accept card payments. No cash, please.\""
+            ],
+        "greetingMessage": "Hi this is Tim's Hawaiian BBQ. How can I help you?",
+        "offlineGreetingMessage": "Hi this is Tim's Hawaiian BBQ. We are currently closed and not accepting food orders at this time.",
+        "openHours": [
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 20, "endMinute": 45 } ] },
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 21, "endMinute": 45 } ] },
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 21, "endMinute": 45 } ] },
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 21, "endMinute": 45 } ] },
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 21, "endMinute": 45 } ] },
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 21, "endMinute": 45 } ] },
+            { "intervals": [ { "startHour": 10, "startMinute": 55, "endHour": 21, "endMinute": 45 } ] }
+        ],
+        "overrideHours": {}
+    }}
+}

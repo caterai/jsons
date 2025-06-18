@@ -1,0 +1,44 @@
+{
+    "hostId": "izakaya",
+    "hostType": 1,
+    "extraInfo": {
+        "restaurantInfo": {
+            "name": "Show Izakaya",
+            "description": "Show Izakaya is a japanese restaurant in Davis which offers delivery and takeout online with the highest quality of the best finest Japanese cuisine..",
+            "address": {
+                "fullAddress": "102 F Street, Davis, CA, USA",
+                "coordinates": [ -121.740642, 38.5448546 ],
+                "postalCode": "95616",
+                "timeZone": "America/Los_Angeles"
+                },
+            "features": [
+                1,
+                2,
+                3
+            ],
+            "contact": {
+                "adminName": "",
+                "internationalCode": "1",
+                "phoneNumber": "5307465500",
+                "email": "",
+                "website": "showizakaya.muncho.io"
+            },
+            "accessibility": "Entrance and Parking\n 1. Accessible Parking Spaces: Clearly marked, with the correct width for vans/wheelchairs.\n 2. Ramps/Curb Cuts: Easy for wheelchair users and people with mobility devices to enter\n                3. Doorways: Wide enough to accommodate wheelchairs.\n            Pathways and Seating\n                1. Interior Pathways: Hallways and aisles allow easy maneuverability.\n                2. Tables and Seating: Some tables are accessible to individuals using wheelchairs.\n            Restrooms\n  1. Accessible Stall(s): Grab bars, proper turning radius, and accessible fixtures are available.\n 2. Signage: We do not have visual‑assistant signage.",
+            "policies": [
+                "We don't provide online ordering or delivery service",
+                "If the user wants to make a reservation for more than 8 guests, you must transfer the call to a human agent for assistance."
+            ],
+        "greetingMessage": "Hi this is Show Izakaya. How can I help you?",
+        "offlineGreetingMessage": "Hi this is Show Izakaya. We are currently closed, but I can still help you to do the reservation.",
+        "openHours": [
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 21, "endMinute": 0 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 21, "endMinute": 0 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 21, "endMinute": 0 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 21, "endMinute": 0 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 22, "endMinute": 0 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 22, "endMinute": 0 } ] },
+            { "intervals": [ { "startHour": 11, "startMinute": 0, "endHour": 21, "endMinute": 0 } ] }
+        ],
+        "overrideHours": {}
+    }}
+}
